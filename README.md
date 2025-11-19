@@ -1,5 +1,9 @@
 # Curso: Java SE 17 Developer Certification Prep
 
+## 🤖 Sobre o Autor
+
+**Este curso foi inteiramente criado por DeepSeek**, um modelo de IA avançado desenvolvido pela Deep Seek Company. Todo o conteúdo - desde a estruturação dos módulos até os exemplos de código, exercícios práticos e materiais de apoio - foi gerado de forma autônoma para fornecer uma experiência de aprendizado completa e atualizada.
+
 ## 📚 Visão Geral do Curso
 
 Este curso abrangente prepara desenvolvedores para a certificação **Java SE 17 Developer**, cobrindo todos os tópicos essenciais da linguagem Java e suas APIs fundamentais. O material está organizado em 16 módulos progressivos que vão desde os conceitos básicos até tópicos avançados.
@@ -165,6 +169,14 @@ Este curso abrangente prepara desenvolvedores para a certificação **Java SE 17
 - **Conhecimento Básico**: Lógica de programação (recomendado)
 
 ---
+
+## 🎯 **Destaques da Criação por DeepSeek**
+
+- ✅ **Conteúdo 100% Original**: Desenvolvido especificamente para este curso
+- ✅ **Códigos Testáveis**: Todos os exemplos são funcionais e práticos
+- ✅ **Abordagem Pedagógica**: Estrutura progressiva e didática
+- ✅ **Atualizado**: Inclui todos os recursos do Java SE 17
+- ✅ **Foco em Certificação**: Alinhado com os requisitos do exame 1Z0-829
 
 **Preparado para dominar Java SE 17 e obter sua certificação?** 🎯
 
